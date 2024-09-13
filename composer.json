@@ -1,0 +1,17 @@
+{
+    "name": "lorenzomene/realtime-chat",
+    "autoload": {
+        "psr-4": {
+            "Lorenzomene\\RealtimeChat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lorenzomene",
+            "email": "lorenzospmene@gmail.com"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+}
